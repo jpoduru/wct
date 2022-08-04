@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/westconfteamsters/clientlibs"/>
+    <filter root="/apps/westconfteamsters/components"/>
+    <filter root="/apps/westconfteamsters/i18n"/>
+</workspaceFilter>
